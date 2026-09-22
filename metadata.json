@@ -1,0 +1,6 @@
+{
+  "name": "Kingkeaw Expense Tracker",
+  "description": "เว็บจัดการรายรับรายจ่าย kingkeaw project สรุปผลรายเดือน พร้อมกราฟวิเคราะห์ข้อมูล และเข้าสู่ระบบด้วย Gmail ผ่าน Firebase",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
